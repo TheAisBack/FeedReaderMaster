@@ -1,4 +1,4 @@
-FeedReaderMaster
+Feed Reader Master
 
 1. The code written is in the folder - jasmine/spec/feedreader.js
 2. For the first code, we must find if feed is defined and not empty. using expect toBeDefined and not.toBe(0).
